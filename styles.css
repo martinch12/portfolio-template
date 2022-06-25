@@ -1,9 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200;400;700;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@200;400;700;800&display=swap');
 
 :root {
-  --primary-color: #3282B8;
-  --primary-color-dark: #0F4C75;
-  --accent-color: #FFF8F0;
+  --primary-color: #40DFEF;
+  --primary-color-dark: #8843F2;
+  --accent-color: #D9D7F1;
 }
 
 html {
@@ -13,7 +13,7 @@ html {
 body {
   margin: 0;
   padding: 0;
-  font-family: 'Manrope', sans-serif;
+  font-family: 'Anek Malayalam', sans-serif;
 }
 
 .navbar {
